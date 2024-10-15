@@ -1,4 +1,4 @@
-![logo](https://github.com/GARUN-GV/GARUN-GV/blob/main/developer-8829735_1920.jpg)
+![logo](https://github.com/GARUN-GV/GARUN-GV/blob/main/bannergithub.jpg)
 <h1 align="center">Hi 👋, I'm GARUN VARSHNEY</h1>
 <h3 align="center">A passionate Web developer from India</h3>
 <img align="right"  alt="coding" width="400px"  style="border-radius:10; box-shadow: 2 2 lightslategraygrey;"src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/e07b3b143584307.627d105a60856.gif">
