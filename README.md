@@ -9,11 +9,11 @@
 
 - 🌱 I’m currently learning **Web Development**
 
-- 👨‍💻 All of my projects are available at [https://garunvarshney-portfolio.netlify.app/](https://garunvarshney-portfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [(https://my-portfolio-tawny-beta-91.vercel.app/)]
 
 - 📫 How to reach me **garunvrshney@gmail.com**
 
-- 📄 Know about my experiences [https://garunvarshney-portfolio.netlify.app/](https://garunvarshney-portfolio.netlify.app/)
+- 📄 Know about my experiences [(https://my-portfolio-tawny-beta-91.vercel.app/)]
 
 - ⚡ Fun fact **I believe every web page should load as fast as I can think! ⚡💨**
 
